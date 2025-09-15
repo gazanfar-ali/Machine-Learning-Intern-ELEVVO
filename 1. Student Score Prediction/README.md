@@ -33,7 +33,7 @@ student-performance-prediction/
 │   └── model_comparison_table.md     # Performance summary
 │
 ├── README.md                         # Project overview
-├── requirements.txt                  # Python dependencies
+└── requirements.txt                  # Python dependencies
 ```
 ---
 
@@ -74,10 +74,12 @@ student-performance-prediction/
 
 ---
 
-## 🚀 Future Work
-- Experiment with advanced models (Random Forest, Gradient Boosting, Neural Networks).  
-- Perform **feature importance analysis** to better interpret contributions.  
-- Extend dataset with additional student behavior metrics if available.  
+## 🔗 Open in Google Colab
+
+You can open and run this project notebook directly using Colab:
+```bash
+https://colab.research.google.com/drive/1_FaMEowvqhR0gHj3k6f_ImaOL56ulC6l?usp=sharing
+```
 
 ---
 
